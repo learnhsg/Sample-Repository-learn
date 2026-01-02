@@ -1,3 +1,0 @@
-# Sample-Repository-learn
-#Sample file edited by hsg.
-
